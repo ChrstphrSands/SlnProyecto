@@ -19,3 +19,14 @@ E:\Proyectos\Visual Studio\SlnProyecto-master\SlnProyecto\obj\Debug\SlnProyecto.
 E:\Proyectos\Visual Studio\SlnProyecto-master\SlnProyecto\obj\Debug\SlnProyecto.exe
 E:\Proyectos\Visual Studio\SlnProyecto-master\SlnProyecto\obj\Debug\SlnProyecto.pdb
 E:\Proyectos\Visual Studio\SlnProyecto-master\SlnProyecto\obj\Debug\SlnProyecto.FrmLogin.resources
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\bin\Debug\SlnProyecto.exe.config
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.exe
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.pdb
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\bin\Debug\SlnProyecto.exe
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\bin\Debug\SlnProyecto.pdb
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.FrmLogin.resources
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.FrmRegistrar.resources
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.Properties.Resources.resources
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.csproj.GenerateResource.Cache
+C:\Users\home\Documents\GitHub\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.FrmAdmin.resources
